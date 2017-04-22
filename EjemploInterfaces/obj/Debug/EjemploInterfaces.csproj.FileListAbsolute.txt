@@ -1,0 +1,6 @@
+C:\Users\USUARIO\AppData\Local\Temporary Projects\EjemploInterfaces\bin\Debug\EjemploInterfaces.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\CSharp\EjemploInterfaces\EjemploInterfaces\bin\Debug\EjemploInterfaces.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\CSharp\EjemploInterfaces\EjemploInterfaces\bin\Debug\EjemploInterfaces.exe
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\CSharp\EjemploInterfaces\EjemploInterfaces\bin\Debug\EjemploInterfaces.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\CSharp\EjemploInterfaces\EjemploInterfaces\obj\Debug\EjemploInterfaces.exe
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\CSharp\EjemploInterfaces\EjemploInterfaces\obj\Debug\EjemploInterfaces.pdb
