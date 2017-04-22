@@ -10,15 +10,12 @@ namespace EjemploInterfaces
     {
         static void Main(string[] args)
         {
-            
-
+            Console.WriteLine("Hello world");
             Console.WriteLine("¿Qué tipo de persistencia quieres? bd o fichero");
             string tipoPersistencia = Console.ReadLine();
 
-            IGestorHeroes gestorHeroes;
-
+            IGestorHeroes gestorHeroes = GestorHeroesFactory.GetGestorHeroes(tipoPersistencia);
             List<Heroe> heroes = gestorHeroes.LeerHeroes();
-
         }
     }
 }
